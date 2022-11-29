@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NAB Todo App</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="label_weather_forecast">Weather Forecast</string>
+    <string name="name_format">Name: %s</string>
+    <string name="number_format">Number: %s</string>
+
+</resources>
